@@ -1,0 +1,44 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "Verse_202308_T1",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "25.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "Verse_202308_T1",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": true,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "976a8ee0-4175-2308-ed7a-449a67766c63",
+		"modules":
+		{
+			"Verse_202308_T1": "f385c7a1-4286-fa7a-a391-6c82e122d3ab"
+		}
+	}
+}
