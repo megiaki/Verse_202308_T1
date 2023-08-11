@@ -31,6 +31,7 @@ zip_move2 := class(creative_device):
                 targetRotation := MakeRotationFromYawPitchRollDegrees(YawAngle, PitchAngle, RollAngle)
                 # 初期位置変更
                 # crash_BP.MoveTo(vector3{X:=2208.0, Y:=-1434.9, Z:=900.00}, targetRotation, 1.0)
+                
                 # 初期位置固定
                 # crash_BP.MoveTo(Position, targetRotation, 1.0)
                 crash_BP.MoveTo(Position, targetRotation, 1.0)
