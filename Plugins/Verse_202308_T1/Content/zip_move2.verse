@@ -38,4 +38,4 @@ zip_move2 := class(creative_device):
 
                 set YawAngle = YawAngle + 20.0
                 set PitchAngle = PitchAngle + 20.0
-                set RollAngle = RollAngle + 20.0
+                set RollAngle = RollAngle + 30.0
